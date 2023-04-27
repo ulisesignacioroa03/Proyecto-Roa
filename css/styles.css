@@ -38,3 +38,6 @@ ul section li{
 .clearfix{clear: both;
 }
 
+p{
+    color: chartreuse;
+}
